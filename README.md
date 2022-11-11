@@ -9,7 +9,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/gustavohbs" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="gustavohbs" height="40" width="40" /></a>
 <a href="https://www.linkedin.com/in/gustavo-henrique-barbosa-da-silva-893194110/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="https://www.linkedin.com/in/gustavo-henrique-barbosa-da-silva-893194110/" height="40" width="40" /></a>
 </p>
 
