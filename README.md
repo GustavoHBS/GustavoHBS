@@ -1,4 +1,3 @@
-<h1 align="center">Eae, meu nome é Gustavo Barbosa</h1>
 <h3 align="center">Trabalho com programação desde 2016 e atualmente atuo como Desenvolvedor. Já trabalhei com varias linguagens e frameworks mas javascript e node foram os q mais me chamaram atenção</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavohbs&label=Profile%20views&color=0e75b6&style=flat" alt="gustavohbs" /> </p>
