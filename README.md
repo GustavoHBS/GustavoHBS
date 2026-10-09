@@ -15,7 +15,7 @@
 
 ### 🚀 Sobre mim
 
-Staff/Senior Backend Engineer com mais de **10 anos de experiência** em sistemas distribuídos, APIs e produtos financeiros críticos. Hoje atuo como **Tech Lead na Casas Bahia Pay**, liderando um time multidisciplinar na construção — do zero — de um produto bancário de crédito consignado, com arquitetura **AWS serverless e orientada a eventos** suportando uma jornada digital com cerca de **800 mil acessos mensais**.
+Staff/Senior Backend Engineer com mais de **10 anos de experiência** em sistemas distribuídos, APIs e produtos financeiros críticos. Hoje atuo como **Tech Lead na Casas Bahia Pay**, liderando um time multidisciplinar na construção — do zero — de um produto bancário de crédito consignado, com arquitetura **AWS serverless e orientada a eventos**. Já lidei com sistemas com mais de **1 milhão de acessos diários**.
 
 - 🏦 Construo e evoluo **produtos financeiros críticos**: empréstimo consignado, FGTS, PIX e integrações com parceiros como Celcoin e Dataprev
 - 🏗️ Atuo em **arquitetura de software**, liderança técnica, mentoria e infraestrutura como código
@@ -27,11 +27,10 @@ Staff/Senior Backend Engineer com mais de **10 anos de experiência** em sistema
 
 | Impacto | Contexto |
 |---|---|
+| 🚀 +1 milhão de acessos/dia | Experiência com sistemas de alta escala |
 | 📄 ~50 mil documentos/mês | Geração automatizada de PDFs em fluxos financeiros críticos |
-| 👥 ~800 mil acessos/mês | Jornada digital de crédito consignado (Casas Bahia Pay) |
 | 📊 +84% produção sem juros | Evolução da jornada de contratação do FGTS |
 | 💳 -66% custo de cobrança | Implementação da integração com PIX (Movilway) |
-| 🧑‍💻 ~400 mil clientes | Base atendida pelo sistema principal da Movilway |
 
 ---
 
